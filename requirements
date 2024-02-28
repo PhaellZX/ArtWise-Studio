@@ -1,0 +1,21 @@
+Windows:
+
+pip install virtualenv
+virtualenv name_environment
+name_environment\Scripts\activate
+
+----------------------------------------
+
+Linux:
+
+pip install virtualenv
+python -m venv name_environment
+source name_environment\Scripts\activate
+
+----------------------------------------
+
+Install:
+
+pip install PyQt5 PyQt5-tools pyside6
+
+
